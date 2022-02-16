@@ -10,7 +10,7 @@ Données de consommation (https://www.kaggle.com/city-of-seattle/sea-building-en
 - Réaliser une courte analyse exploratoire.
 - Tester différents modèles de prédiction afin de répondre au mieux à la problématique.
 
-# Résultats
+# Livrables
 - P4_Exploration.ipynb : notebook de l'analyse exploratoire
 - P4_Modeles.ipynb : notebook contenant différents tests de modèles et identification du modèle final choisi
 - P4_Presentation.pdf : support de présentation pour la soutenance
